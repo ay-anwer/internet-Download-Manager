@@ -1,7 +1,7 @@
 import sys
 import os
 import truststore
-truststore.inject_into_ssl()                                                                              #   Injecting Operating System (Windows) Certificates into Python to Fix SSL Issues
+truststore.inject_into_ssl()                                                                      #   Injecting Operating System (Windows) Certificates into Python to Fix SSL Issues
 
 from PySide6.QtGui import QGuiApplication
 from PySide6.QtQml import QQmlApplicationEngine
