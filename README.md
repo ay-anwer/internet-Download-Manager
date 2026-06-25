@@ -1,4 +1,4 @@
-some repository to succes run project follothis commmand in terminal either windows or linux
+some repository to succes run project follothis commmand in terminal either windows or linux--------------------
 
 
 pip install pyside6 requests truststore pyside-ds PySide6_Addons PySide6_Essentials 
