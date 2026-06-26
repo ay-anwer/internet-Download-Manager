@@ -1,4 +1,5 @@
-some repository to succes run project follow this commmands in a terminal either windows or linux--------------------
+some repository to succes run project follow this commmands in a terminal either windows or linux
+
 ![Internet Download Manager GUI](https://raw.githubusercontent.com/ay-anwer/internet-Download-Manager/main/GUI.jpg)
 
 pip install pyside6 requests truststore pyside-ds PySide6_Addons PySide6_Essentials 
